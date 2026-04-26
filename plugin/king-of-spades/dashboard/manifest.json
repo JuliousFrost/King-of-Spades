@@ -1,0 +1,12 @@
+{
+  "name": "king-of-spades",
+  "label": "King of Spades Assets",
+  "description": "Hidden dashboard asset host for the King of Spades Hermes Dashboard theme.",
+  "icon": "Spade",
+  "version": "0.1.0",
+  "tab": {
+    "path": "/king-of-spades",
+    "hidden": true
+  },
+  "entry": "dist/index.js"
+}

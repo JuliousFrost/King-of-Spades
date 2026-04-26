@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-label="King of Spades banner">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#050605"/>
+      <stop offset="0.52" stop-color="#102015"/>
+      <stop offset="1" stop-color="#070706"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="25%" r="55%">
+      <stop offset="0" stop-color="#c8953d" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#c8953d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1400" height="420" fill="url(#bg)"/>
+  <rect width="1400" height="420" fill="url(#glow)"/>
+  <rect x="28" y="28" width="1344" height="364" rx="28" fill="none" stroke="#c8953d" stroke-opacity="0.72" stroke-width="3"/>
+  <text x="90" y="155" fill="#b3312d" font-family="Georgia, serif" font-size="74" font-weight="700">K♠</text>
+  <text x="90" y="245" fill="#f5e6bd" font-family="Georgia, serif" font-size="82" font-weight="700" letter-spacing="4">King of Spades</text>
+  <text x="96" y="308" fill="#bfa977" font-family="Georgia, serif" font-size="30">A cinematic playing-card theme for Hermes Dashboard</text>
+</svg>

@@ -1,0 +1,7 @@
+# OS/editor
+.DS_Store
+*.swp
+
+# Local captures before curation
+captures/
+*.log
