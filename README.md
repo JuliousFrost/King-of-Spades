@@ -6,7 +6,17 @@ This repo is Daedalus-style in layout, but includes a tiny hidden dashboard plug
 
 ## Preview
 
-Screenshots can be added under `screenshots/` after capturing the live dashboard.
+### Sessions
+
+![King of Spades sessions dashboard](screenshots/01-sessions-dark.png)
+
+### Analytics
+
+![King of Spades analytics dashboard](screenshots/02-analytics-dark.png)
+
+### Sessions with plugin panel
+
+![King of Spades sessions plugin dashboard](screenshots/03-sessions-plugin-dark.png)
 
 Reference assets are included here:
 
